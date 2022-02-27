@@ -1,0 +1,30 @@
+﻿@model List<PizzaOnline.Services.ViewModel.PizzasViewModels>
+
+@{
+    ViewData["Title"] = "Pizzas";
+}
+
+<h1>Pizzas</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Nom</th>
+            <th scope="col">Liste des ingrédients</th>
+        </tr>
+    </thead>
+    
+    <tbody>
+        @foreach(var pizza in Model)
+        {
+            <tr>
+                <td>@pizza.Name</td>
+                <td>@foreach(var ingredient in pizza.Composition)
+                    {
+                        <span>@ingredient.Name ,</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

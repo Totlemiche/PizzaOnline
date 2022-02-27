@@ -1,0 +1,12 @@
+C:\Users\tomde\source\repos\PizzaOnline\PizzaOnline.Data\obj\Debug\net5.0\PizzaOnline.Data.csproj.AssemblyReference.cache
+C:\Users\tomde\source\repos\PizzaOnline\PizzaOnline.Data\obj\Debug\net5.0\PizzaOnline.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomde\source\repos\PizzaOnline\PizzaOnline.Data\obj\Debug\net5.0\PizzaOnline.Data.AssemblyInfoInputs.cache
+C:\Users\tomde\source\repos\PizzaOnline\PizzaOnline.Data\obj\Debug\net5.0\PizzaOnline.Data.AssemblyInfo.cs
+C:\Users\tomde\source\repos\PizzaOnline\PizzaOnline.Data\obj\Debug\net5.0\PizzaOnline.Data.csproj.CoreCompileInputs.cache
+C:\Users\tomde\source\repos\PizzaOnline\PizzaOnline.Data\bin\Debug\net5.0\PizzaOnline.Data.deps.json
+C:\Users\tomde\source\repos\PizzaOnline\PizzaOnline.Data\bin\Debug\net5.0\PizzaOnline.Data.dll
+C:\Users\tomde\source\repos\PizzaOnline\PizzaOnline.Data\bin\Debug\net5.0\PizzaOnline.Data.pdb
+C:\Users\tomde\source\repos\PizzaOnline\PizzaOnline.Data\obj\Debug\net5.0\PizzaOnline.Data.dll
+C:\Users\tomde\source\repos\PizzaOnline\PizzaOnline.Data\obj\Debug\net5.0\refint\PizzaOnline.Data.dll
+C:\Users\tomde\source\repos\PizzaOnline\PizzaOnline.Data\obj\Debug\net5.0\PizzaOnline.Data.pdb
+C:\Users\tomde\source\repos\PizzaOnline\PizzaOnline.Data\obj\Debug\net5.0\ref\PizzaOnline.Data.dll

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaOnline", "PizzaOnline\PizzaOnline.csproj", "{BBC137AA-8491-430F-837E-079403F71378}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaOnline.Data", "PizzaOnline.Data\PizzaOnline.Data.csproj", "{94C99599-5025-4FEE-8CFC-924783C8724B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaOnline.Services", "PizzaOnline.Services\PizzaOnline.Services.csproj", "{A3B85C87-5709-4F59-9F09-A7AF57953D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBC137AA-8491-430F-837E-079403F71378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC137AA-8491-430F-837E-079403F71378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC137AA-8491-430F-837E-079403F71378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC137AA-8491-430F-837E-079403F71378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C99599-5025-4FEE-8CFC-924783C8724B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C99599-5025-4FEE-8CFC-924783C8724B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C99599-5025-4FEE-8CFC-924783C8724B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C99599-5025-4FEE-8CFC-924783C8724B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B85C87-5709-4F59-9F09-A7AF57953D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B85C87-5709-4F59-9F09-A7AF57953D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B85C87-5709-4F59-9F09-A7AF57953D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B85C87-5709-4F59-9F09-A7AF57953D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3639D22-3CB1-49BD-9FC6-BE5117AD3CD9}
+	EndGlobalSection
+EndGlobal
